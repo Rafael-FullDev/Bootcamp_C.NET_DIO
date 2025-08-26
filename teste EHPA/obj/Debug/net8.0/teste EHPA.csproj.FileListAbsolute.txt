@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.AssemblyInfo.cs
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.sourcelink.json
+C:\Users\USER\source\repos\teste EHPA\bin\Debug\net8.0\teste EHPA.exe
+C:\Users\USER\source\repos\teste EHPA\bin\Debug\net8.0\teste EHPA.deps.json
+C:\Users\USER\source\repos\teste EHPA\bin\Debug\net8.0\teste EHPA.runtimeconfig.json
+C:\Users\USER\source\repos\teste EHPA\bin\Debug\net8.0\teste EHPA.dll
+C:\Users\USER\source\repos\teste EHPA\bin\Debug\net8.0\teste EHPA.pdb
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.dll
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\refint\teste EHPA.dll
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.pdb
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\teste EHPA.genruntimeconfig.cache
+C:\Users\USER\source\repos\teste EHPA\obj\Debug\net8.0\ref\teste EHPA.dll
