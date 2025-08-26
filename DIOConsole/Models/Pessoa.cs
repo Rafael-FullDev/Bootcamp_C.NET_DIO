@@ -4,15 +4,17 @@
     {
         private string _nome;
         private int _idade;
-
-        public Pessoa(string nome, string sobrenome, int idade)
+        public Pessoa(string nome, string sobrenome, int idade, DateTime data)
         {
             Sobrenome = sobrenome;
             Nome = nome;
             Idade = idade;
+            Data = data;
         }
 
         public string Sobrenome { get; set; }
+
+        public DateTime Data { get; set; }
 
         public string Nome {
             get => _nome;
